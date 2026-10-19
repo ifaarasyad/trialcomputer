@@ -58,3 +58,6 @@ Plain HTML + CSS + JavaScript. No framework, no build step, no database.
 ## Deploy
 Upload the whole folder to Netlify (drag and drop) or any static host.
 Keep `_headers` in the root folder so the security headers are applied.
+
+# trialcomputer
+
