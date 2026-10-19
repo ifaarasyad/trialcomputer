@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Two friendly people looking at a laptop together">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fdf3e0"/>
+      <stop offset="1" stop-color="#dcebff"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="640" height="440" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="640" height="440" fill="url(#bg)"/>
+    <circle cx="570" cy="60" r="70" fill="#ffe2a0" opacity=".7"/>
+    <circle cx="60" cy="390" r="90" fill="#b9d6ff" opacity=".55"/>
+    <!-- window / shelf hints -->
+    <rect x="40" y="50" width="110" height="130" rx="10" fill="#fff" opacity=".6"/>
+    <path d="M95 50v130M40 115h110" stroke="#c7d6ee" stroke-width="4"/>
+    <rect x="500" y="150" width="90" height="12" rx="5" fill="#c7d6ee"/>
+    <path d="M520 150c-4-26 6-40 14-46 8 6 18 20 14 46z" fill="#6fbf8b"/>
+
+    <!-- woman -->
+    <ellipse cx="410" cy="190" rx="64" ry="70" fill="#6b4330"/>
+    <path d="M315 440C315 340 355 302 412 302C469 302 508 340 508 440z" fill="#f08a6b"/>
+    <rect x="394" y="240" width="32" height="50" rx="12" fill="#e3a98a"/>
+    <circle cx="410" cy="186" r="48" fill="#f3c9a8"/>
+    <path d="M360 176C362 128 458 126 460 176C440 156 380 156 360 176z" fill="#6b4330"/>
+    <circle cx="392" cy="192" r="4" fill="#3a2a22"/>
+    <circle cx="428" cy="192" r="4" fill="#3a2a22"/>
+    <circle cx="384" cy="206" r="7" fill="#f4a0a0" opacity=".45"/>
+    <circle cx="436" cy="206" r="7" fill="#f4a0a0" opacity=".45"/>
+    <path d="M394 212Q410 226 426 212" fill="none" stroke="#b4584a" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- man -->
+    <path d="M125 440C125 335 175 292 240 292C305 292 355 335 355 440z" fill="#5b7fb8"/>
+    <rect x="224" y="240" width="32" height="56" rx="12" fill="#dfae8b"/>
+    <path d="M214 294L240 326L266 294z" fill="#eef3fb"/>
+    <ellipse cx="190" cy="192" rx="8" ry="18" fill="#dfe3ea"/>
+    <ellipse cx="290" cy="192" rx="8" ry="18" fill="#dfe3ea"/>
+    <circle cx="240" cy="190" r="50" fill="#f1c4a0"/>
+    <path d="M192 178C190 122 290 122 288 178C272 152 208 152 192 178z" fill="#dfe3ea"/>
+    <path d="M208 172l26-2M246 170l26 2" stroke="#b8bfcc" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="222" cy="192" r="14" fill="#fff" fill-opacity=".35" stroke="#2a3550" stroke-width="4"/>
+    <circle cx="258" cy="192" r="14" fill="#fff" fill-opacity=".35" stroke="#2a3550" stroke-width="4"/>
+    <path d="M236 190q4-4 8 0" fill="none" stroke="#2a3550" stroke-width="4"/>
+    <circle cx="222" cy="192" r="3" fill="#2a3550"/>
+    <circle cx="258" cy="192" r="3" fill="#2a3550"/>
+    <path d="M222 216Q240 232 258 216" fill="none" stroke="#8a4a3a" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- laptop (back of the lid) -->
+    <path d="M178 352h284a12 12 0 0112 12v76H166v-76a12 12 0 0112-12z" fill="#cfd8e6"/>
+    <path d="M178 352h284" stroke="#e8eef8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="320" cy="396" r="13" fill="#aebbd1"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+# Allow all search engines to read the whole site.
+User-agent: *
+Allow: /
+
+# CHANGE YOUR-DOMAIN.com to the real domain before publishing.
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
